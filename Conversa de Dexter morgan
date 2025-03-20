@@ -1,5 +1,5 @@
 # o erro no "?" do início da conversa é proposital.
-
+print("uma conversa foi iniciada.")
 ? = input("Qual seu nome?")
 # diz o cara desconhecido que não conhece o outro abaixo
 print("meu nome é Dexter, Dexter morgan")
