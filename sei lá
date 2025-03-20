@@ -1,1 +1,2 @@
+nome = input("qual seu nome?")
 print("meu nome é dexter, dexter morgan")
