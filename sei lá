@@ -1,4 +1,4 @@
 name = input("Qual seu nome?")
--- diz o cara desconhecido que não conhece o outro abaixo
-print("meu nome é Dexter, dex Dexter morgan")
-Dexter answer = input("e o teu mano? qual o teu nome?")
+# diz o cara desconhecido que não conhece o outro abaixo
+print("meu nome é Dexter, Dexter morgan")
+dexter_answer = input("e o teu mano? qual o teu nome?")
